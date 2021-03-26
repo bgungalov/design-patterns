@@ -5,12 +5,12 @@ public class Lights {
 	private Boolean lightsOn;
 	
 	public void switchOn() {
-		System.out.println("Lights are on");
+		System.out.println("Exercises are on");
 		this.lightsOn = true;
 	}
 	
 	public void switchOff() {
-		System.out.println("Lights are off");
+		System.out.println("Exercises are off");
 		this.lightsOn = false;
 	}
 }
